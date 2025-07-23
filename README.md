@@ -96,7 +96,7 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
   <img src="https://github-readme-stats.vercel.app/api?username=raviy00&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Ravi's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviy00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
----
+
 📫 How to Reach Me
 
 <p align="center">
