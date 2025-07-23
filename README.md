@@ -97,7 +97,7 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviy00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
 ---
-### 📫 How to Reach Me
+📫 How to Reach Me
 
 <p align="center">
   <a href="https://t.me/gods_eye_404" target="_blank">
