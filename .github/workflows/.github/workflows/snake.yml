@@ -8,8 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: # <--- ADD THIS BLOCK
-      contents: write # <--- AND THIS LINE
+    permissions: # <--- ENSURE THIS BLOCK IS PRESENT
+      contents: write # <--- AND THIS LINE IS EXACTLY LIKE THIS
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
