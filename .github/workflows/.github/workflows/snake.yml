@@ -8,8 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Add these two lines below!
     permissions:
-      contents: write # Important: This grants write access for the action to push content
+      contents: write # This grants write access for the action to push content
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
